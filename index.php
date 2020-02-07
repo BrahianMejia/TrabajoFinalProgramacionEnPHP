@@ -2,7 +2,7 @@
 <html lang="es">
     <head>
         <meta charset="UTF-8">
-        <title>Ejercicio Final php</title>
+        <title>Trabajo Final PHP</title>
 
         <script>
         function proceso(taller1, taller2, cuestionario1, cuestionario2, proyectofinal, boton)
