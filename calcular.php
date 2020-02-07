@@ -2,12 +2,12 @@
 
     if (isset($_POST["calcular"]))
     {
-        require_once 'Logica/Taller1.php';
-        require_once 'Logica/Taller2.php';
-        require_once 'Logica/Cuestionario1.php';
-        require_once 'Logica/Cuestionario2.php';
-        require_once 'Logica/ProyectoFinal.php';
-        require_once 'Logica/Resultado.php';
+        require_once('logica/Taller1.php');
+        require_once('logica/Taller2.php');
+        require_once('logica/Cuestionario1.php');
+        require_once('logica/Cuestionario2.php');
+        require_once('logica/ProyectoFinal.php');
+        require_once('logica/Resultado.php');
 
         $n1 = $_POST['taller1'];
         $n2 = $_POST['taller2'];
